@@ -15,6 +15,7 @@ This program will connect to Twitter using OAUTH and pull your five most recent 
 ## Programming
 
 * Node.js (https://nodejs.org/en)
+* NPM (https://www.npmjs.com/)
 * Express (https://www.npmjs.com/package/express)
 * Twit (https://www.npmjs.com/package/twit)
 * Pug (https://www.npmjs.com/package/pug)
