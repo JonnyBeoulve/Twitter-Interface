@@ -1,0 +1,4 @@
+extends layout
+block main
+  h1= `Error ${error.status}: ${error.message}`
+  p= `${error.stack}`

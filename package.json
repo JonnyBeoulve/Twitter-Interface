@@ -1,0 +1,18 @@
+{
+  "name": "twitter-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Leack",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "twit": "^2.2.9",
+    "moment": "^2.18.1",
+    "pug": "^2.0.0-rc.3"
+  }
+}
