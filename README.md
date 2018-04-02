@@ -13,13 +13,12 @@ This program will connect to Twitter using OAUTH and pull your five most recent 
 4. Open your browser and visit 'localhost:3000'.
 
 ## Programming
-
-* Node.js (https://nodejs.org/en)
-* NPM (https://www.npmjs.com/)
-* Express (https://www.npmjs.com/package/express)
-* Twit (https://www.npmjs.com/package/twit)
-* Pug (https://www.npmjs.com/package/pug)
-* Moment (https://www.npmjs.com/package/moment)
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express
+* Pug
 
 ## Notes
 
